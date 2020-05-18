@@ -1,11 +1,11 @@
 .main-container {
-  /*border: 1px solid red;*/
+  /* border: 1px solid red; */
   display: flex;
   justify-content: center;
 }
 
 .container {
-  /*border: 1px solid green;*/
+  /* border: 1px solid green; */
   width: 900px;
   display: flex;
   flex-direction: column;
